@@ -48,7 +48,7 @@ exports.onCreateNode = ({ node, boundActionCreators }, pluginOptions) => {
       frontmatter: parsedMarkdown.attributes,
       parent: node.id,
       children: [],
-      headings: createHeadings(parsedMarkdown.body),
+      headings: createHeadings(parsedMarkdown.body, md),
       internal: {
         type: "NimblRenderedHTML",
         contentDigest: crypto

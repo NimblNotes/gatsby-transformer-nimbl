@@ -1,7 +1,8 @@
 {
   "name": "gatsby-transformer-nimbl",
-  "version": "1.0.0",
-  "description": "Gatsby transformer for markdown files that uses nimbl as engine",
+  "version": "1.0.2",
+  "description":
+    "Gatsby transformer for markdown files that uses nimbl as engine",
   "main": "gatsby-node.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/NimblNotes/gatsby-transformer-nimbl.git"
   },
-  "keywords": [
-    "markdown",
-    "gatsby"
-  ],
+  "keywords": ["markdown", "gatsby"],
   "author": "ZaninAndrea",
   "license": "MIT",
   "bugs": {
