@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/NimblNotes/gatsby-transformer-nimbl.git"
   },
-  "keywords": ["markdown", "gatsby"],
+  "keywords": ["markdown", "gatsby", "gatsby-plugin"],
   "author": "ZaninAndrea",
   "license": "MIT",
   "bugs": {
